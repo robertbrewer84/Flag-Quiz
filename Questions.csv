@@ -1,0 +1,100 @@
+au.png,Australia,New Zealand,United Kingdom,Samoa,1
+br.png,Bolivia,Brazil,Honduras,Paraguay,2
+ca.png,Denmark,Greenland,Canada,United States,3
+cn.png,India,Taiwan,Japan,China,4
+dk.png,Denmark,Norway,Switzerland,Sweden,1
+fr.png,Italy,France,Spain,Netherlands,2
+de.png,Liechenstein,Belgium,Germany,France,3
+gr.png,Uruguay,Portugal,Sweden,Greece,4
+in.png,India,Niger,Ireland,Iran,1
+ie.png,Ivory Coast,Ireland,Italy,Netherlands,2
+it.png,France,Belgium,Italy,Germany,3
+jp.png,Turkey,South Korea,China,Japan,4
+pt.png,Portugal,Spain,Mexico,Italy,1
+ru.png,France,Russia,Netherlands,Belgium,2
+za.png,Australia,Argentina,South Africa,Egypt,3
+kr.png,China,Japan,Russia,South Korea,4
+es.png,Spain,Portugal,Greece,Italy,1
+ch.png,Sweden,Switzerland,Denmark,Austria,2
+gb.png,Australia,United States,United Kingdom,South Africa,3
+us.png,United Kingdom,China,Liberia,United States,4
+dz.png,Algeria,Turkey,Libya,Nigeria,1
+ad.png,Monaco,Andorra,Moldova,Portugal,2
+ar.png,Honduras,El Salvador,Argentina,Uruguay,3
+at.png,Switzerland,Latvia,Canada,Austria,4
+ba.png,Bosnia & Herzegovina,Macedonia,Serbia,Croatia,1
+bg.png,Russia,Bulgaria,Hungary,Romania,2
+co.png,Ecuador,Bolivia,Colombia,Peru,3
+cz.png,Russia,Cuba,Luxembourg,Czech Republic,4
+eg.png,Egypt,Iraq,Syria,Iran,1
+hu.png,Bulgaria,Hungary,Tajikistan,Belarus,2
+il.png,Greece,Turkey,Israel,Lebanon,3
+jm.png,Dominica,Belize,Bahamas,Jamaica,4
+lt.png,Lithuania,Latvia,Belarus,Russia,1
+mx.png,Portugal,Mexico,Belize,Brazil,2
+ke.png,Ethiopia,Eritrea,Kenya,Malawi,3
+nz.png,United States,United Kingdom,Australia,New Zealand,4
+pk.png,Pakistan,Turkey,Libya,Sri Lanka,1
+sk.png,Croatia,Slovakia,Slovenia,Serbia,2
+ua.png,Russia,Romania,Ukraine,Belarus,3
+uy.png,Paraguay,Chile,Argentina,Uruguay,4
+al.png,Albania,Italy,Andorra,Moldova,1
+ao.png,Papua New Guinea,Angola,Mozambique,Russia,2
+az.png,Tajikistan,Libya,Azerbaijan,Turkey,3
+bd.png,Japan,Benin,Malawi,Bangladesh,4
+bz.png,Belize,Costa Rica,Cuba,Thailand,1
+kh.png,Liechenstein,Cambodia,Haiti,Taiwan,2
+sv.png,Honduras,Nicaragua,El Salvador,Israel,3
+fj.png,Tonga,Samoa,Vanuatu,Fiji,4
+gt.png,Guatemala,Nicaragua,Belize,Honduras,1
+gy.png,Guinea,Guyana,Suriname,Saint Lucia,2
+iq.png,Yemen,Iran,Iraq,Egypt,3
+la.png,Vietnam,Cambodia,Thailand,Laos,4
+mk.png,Macedonia,Montenegro,Serbia,Kosovo,1
+my.png,United States,Malaysia,Uruguay,Singapore,2
+mz.png,South Africa,Zimbabwe,Mozambique,Namibia,3
+np.png,Bangladesh,Pakistan,Bhutan,Nepal,4
+pa.png,Panama,Costa Rica,Phillipines,Paraguay,1
+sr.png,Senegal,Suriname,Vietnam,Seychelles,2
+th.png,Costa Rica,Paraguay,Thailand,Netherlands,3
+ug.png,Kenya,Mozambique,Rwanda,Uganda,4
+as.png,American Samoa,Puerto Rico,US Virgin Islands,Cyprus,1
+ag.png,Angola,Antigua & Barbuda,Malawi,Macedonia,2
+bt.png,Nepal,Bangladesh,Bhutan,Vietnam,3
+bn.png,Angola,Singapore,Albania,Brunei,4
+bi.png,Burundi,Dominica,Bulgaria,Belarus,1
+cv.png,Curacao,Cape Verde,Laos,Haiti,2
+cf.png,Mauritus,Mali,Central African Republic,Comoros,3
+dm.png,Denmark,Brazil,Vanuatu,Dominica,4
+er.png,Eritrea,Azerbaijan,Tajikistan,Djibouti,1
+ga.png,Lithuania,Gabon,Chad,Gambia,2
+gd.png,Guyana,Suriname,Grenada,Guinea,3
+ht.png,Laos,Samoa,Liechenstein,Haiti,4
+mg.png,Madagascar,Benin,Mauritania,Mauritius,1
+mr.png,Pakistan,Mauritania,Turkey,Libya,2
+na.png,Kenya,Angola,Namibia,Botswana,3
+rw.png,Namibia,Burundi,Gabon,Rwanda,4
+tj.png,Tajikistan,Hungary,Belarus,Iran,1
+gm.png,Sierra Leone,The Gambia,Burkina Faso,Ghana,2
+tg.png,Ghana,Cameroon,Togo,Sao Tome & Principe,3
+tm.png,Pakistan,Libya,Turkey,Turkmenistan,4
+ab.png,Aruba,Curacao,Micronesia,Saint Lucia,1
+km.png,Maldives,Comoros,Mauritius,Seychelles,2
+da.png,Cape Verde,Guam,Curacao,Aruba,3
+dj.png,Sierra Leone,Czech Republic,Eritrea,Djibouti,4
+gq.png,Equatorial Guinea,Mexico,Lesotho,Guinea-Bissau,1
+fa.png,Georgia,Faroe Islands,Norway,Iceland,2
+gl.png,Singapore,Indonesia,Gibraltar,Malta,3
+gu.png,Fiji,Puerto Rico,Macao,Guam,4
+ki.png,Kiribati,Moldova,Malawi,Kyrgyzstan,1
+ks.png,Cyprus,Kosovo,Montenegro,Kazakhstan,2
+ls.png,Sierra Leone,Djibouti,Lesotho,Swaziland,3
+mo.png,Mongolia,Taiwan,Hong Kong,Macao,4
+mh.png,Marshall Islands,Cape Verde,Nauru,Curacao,1
+fm.png,Kiribati,Micronesia,Fiji,American Samoa,2
+nr.png,Aruba,New Caledonia,Nauru,Curacao,3
+nc.png,Azerbaijan,Tonga,Armenia,New Caledonia,4
+st.png,Sao Tome & Principe,Guyana,Venezuela,Saint Vincent,1
+tl.png,Bhutan,Timor-Leste,Brunei,Papua New Guinea,2
+vu.png,Tanzania,Somalia,Vanuatu,Zimbabwe,3
+va.png,Malta,San Marino,Monaco,Vatican City,4
